@@ -1,2 +1,6 @@
 # hello-world
-Just another repository...
+Hi Crew!
+
+RC here, this is the start...
+
+Enjoy :)
